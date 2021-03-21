@@ -15,6 +15,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Azure B2B Collaboration](https://luketylerwilliams.medium.com/azure-b2b-collaboration-e593f32c05ef)
+- [Releases/FindAllSubscriptionsUnderManagementGroup.ps1](https://luketylerwilliams.medium.com/releases-findallsubscriptionsundermanagementgroup-ps1-90f1b0749329)
+- [AzQuickLog](https://luketylerwilliams.medium.com/azquicklog-cda6040ded6b)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://luketylerwilliams.medium.com)
