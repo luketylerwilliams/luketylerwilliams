@@ -6,7 +6,7 @@
 ## I'm a Cloud Security Engineer at National Grid!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, surf and do Muay Thai!
 
 
