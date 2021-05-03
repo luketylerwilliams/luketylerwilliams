@@ -14,6 +14,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Conditional Access Policies and Microsoft Cloud App Security](https://luketylerwilliams.medium.com/conditional-access-policies-and-microsoft-cloud-app-security-397df6d70d78)
 - [Azure B2B Collaboration](https://luketylerwilliams.medium.com/azure-b2b-collaboration-e593f32c05ef)
 - [Releases/FindAllSubscriptionsUnderManagementGroup.ps1](https://luketylerwilliams.medium.com/releases-findallsubscriptionsundermanagementgroup-ps1-90f1b0749329)
 - [AzQuickLog](https://luketylerwilliams.medium.com/azquicklog-cda6040ded6b)
