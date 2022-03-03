@@ -6,7 +6,7 @@
 ## I'm a Cloud Security Consultant @ Integrity360!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021/2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel, surf and do Muay Thai!
 
 
